@@ -1,0 +1,8 @@
+\begin{frame}{Extraction des mots-clés : état de l'art}
+\begin{figure}
+    \centering
+    \includegraphics[width=105mm,scale=0.5]{pic/sota_adapte.png}
+    \caption{Extrait de l'état de l'art sur l'extraction des mots-clés, adapté de \citet{xie2023}\footnote{Figure retouchée pour raison de lisibilité.}.}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}

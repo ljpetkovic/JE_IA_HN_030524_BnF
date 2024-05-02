@@ -1,0 +1,11 @@
+\begin{frame}{Définition de la tâche}
+(angl. \textit{keyphrases}) : \og{}phrases-clés\fg{}
+\begin{block}{Extraction de phrases-clés}
+\justifying
+Processus de \underline{sélection} automatique d'un petit ensemble de phrases les plus pertinentes à partir d'un texte donné \citep{schopf2022}.
+\end{block}
+\begin{block}{Prédiction de phrases-clés}
+\justifying
+Processus de \underline{génération} des phrases-clés qui résument parfaitement un document donné \citep{xie2023}.
+\end{block}
+\end{frame}

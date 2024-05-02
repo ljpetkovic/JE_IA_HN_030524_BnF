@@ -1,0 +1,85 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 0_main.aux
+The style file: biblatex.bst
+This database file appears more than once: ref.bib
+---line 19 of file 0_main.aux
+ : \bibdata{0_main-blx,ref,ref
+ :                            }
+I'm skipping whatever remains of this command
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: 0_main-blx.bib
+Database file #2: ref.bib
+I was expecting a `,' or a `}'---line 176 of file ref.bib
+ :   note={An essay of the pathology of the brain and nervous stock in which convulsive diseases are treated of} 
+ :                                                                                                               (trad. par Samuel Pordage)}
+I'm skipping whatever remains of this entry
+Repeated entry---line 328 of file ref.bib
+ : @book{charcot1890oeuvres
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 337 of file ref.bib
+ : @article{vaswani2021
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "camargo2024"
+Warning--I didn't find a database entry for "schopf22"
+Biblatex version: 3.17
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 16 entries,
+            6399 wiz_defined-function locations,
+            1303 strings with 12829 characters,
+and the built_in function-call counts, 150979 in all, are:
+= -- 12584
+> -- 2086
+< -- 674
++ -- 4304
+- -- 804
+* -- 11536
+:= -- 17200
+add.period$ -- 0
+call.type$ -- 16
+change.case$ -- 374
+chr.to.int$ -- 44
+cite$ -- 30
+duplicate$ -- 14947
+empty$ -- 12872
+format.name$ -- 1183
+if$ -- 30792
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 0
+newline$ -- 598
+num.names$ -- 856
+pop$ -- 5662
+preamble$ -- 1
+purify$ -- 466
+quote$ -- 0
+skip$ -- 3444
+stack$ -- 0
+substring$ -- 24021
+swap$ -- 2796
+text.length$ -- 525
+text.prefix$ -- 15
+top$ -- 1
+type$ -- 531
+warning$ -- 0
+while$ -- 1991
+width$ -- 0
+write$ -- 583
+(There were 4 error messages)

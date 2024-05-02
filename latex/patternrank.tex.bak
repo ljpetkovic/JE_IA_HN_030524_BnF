@@ -1,0 +1,9 @@
+\begin{frame}{\textit{PatternRank}}
+\begin{figure}
+    \centering
+    \includegraphics[width=50mm,scale=0.5]{pic/patternrank_workflow.png}
+    \caption{\textit{Workflow} de la méthode \textit{PatternRank}.}
+    \label{fig:enter-label}
+\end{figure}
+\citep{schopf2022}
+\end{frame}
